@@ -1,0 +1,2 @@
+﻿  сортировки.cpp
+C:\Users\oksih\source\repos\сортировки\сортировки.cpp(90,13): error C2040: digitCount: "int" отличается по уровням косвенного обращения от "int *"
